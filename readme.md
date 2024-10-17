@@ -81,5 +81,6 @@ Here’s a breakdown of the important components:
 * CurrencyExchangeService: Fetches the exchange rates from the third-party API and caches the result.
 * DiscountService: Applies the applicable discounts to the bill amount.
 * CurrencyResponse: The model used to map the response from the third-party currency exchange API.
-
+  
+### Class Diagram
 [Class Diagram](https://github.com/Neeti-Gupta/currency-exchange/blob/main/classdiagram.md)
