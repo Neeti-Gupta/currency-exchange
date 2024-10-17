@@ -82,3 +82,4 @@ Here’s a breakdown of the important components:
 * DiscountService: Applies the applicable discounts to the bill amount.
 * CurrencyResponse: The model used to map the response from the third-party currency exchange API.
 
+[Class Diagram](https://github.com/Neeti-Gupta/currency-exchange/blob/main/classdiagram.md)
