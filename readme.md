@@ -70,7 +70,7 @@ The application exposes a REST API to calculate the payable amount:
 ```
 
 ###  How to Run the Application
-1. Clone the repository:git clone https://github.com/your-repository.git
+1. Clone the repository:git clone [https://github.com/your-repository](https://github.com/Neeti-Gupta/currency-exchange).git
 2. Navigate to the project directory:cd your-repository
 3. Run the application:./mvnw spring-boot:run
 4. Access the API: Once the application is running, you can access the API via POST requests to /api/calculate.
